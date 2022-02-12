@@ -1,0 +1,1887 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-11T19:36:23Z",
+    "timestamp_areas_base": "2022-02-11T19:14:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 16173235,
+      "lat": 19.0759899,
+      "lon": 72.8773928,
+      "tags": {
+        "alt_name:es": "Mumbai",
+        "capital": "4",
+        "capital_1": "4",
+        "ele": "8",
+        "is_capital": "state",
+        "is_in:country": "India",
+        "is_in:iso_3166_2": "IN-MH",
+        "name": "Mumbai",
+        "name:ar": "مومباي",
+        "name:arz": "مومباى",
+        "name:azb": "بمبئی",
+        "name:bn": "মুম্বই",
+        "name:ckb": "مومبای",
+        "name:cs": "Bombaj",
+        "name:de": "Mumbai",
+        "name:en": "Mumbai",
+        "name:eo": "Mumbajo",
+        "name:es": "Bombay",
+        "name:fa": "مومبای",
+        "name:fr": "Mumbai",
+        "name:gu": "મુંબઈ",
+        "name:he": "מומבאי",
+        "name:hi": "मुंबई",
+        "name:ia": "Mumbai",
+        "name:io": "Mumbai",
+        "name:ja": "ムンバイ",
+        "name:jbo": ".mumbais.",
+        "name:kn": "ಮುಂಬೈ",
+        "name:ks": "بَمبَے",
+        "name:lt": "Mumbajus",
+        "name:ml": "മുംബൈ",
+        "name:mr": "मुंबई",
+        "name:mzn": "مومبای",
+        "name:oc": "Mumbai",
+        "name:pl": "Mumbaj",
+        "name:pnb": "ممبئی",
+        "name:ps": "ممبای",
+        "name:ru": "Мумбаи",
+        "name:sd": "ممبئي",
+        "name:sk": "Bombaj",
+        "name:sr": "Мумбај",
+        "name:ta": "மும்பை",
+        "name:te": "ముంబై",
+        "name:uk": "Мумбаї",
+        "name:ur": "ممبئی",
+        "name:zh": "孟买",
+        "old_name": "Bombay",
+        "old_name:ar": "بومباي",
+        "old_name:eo": "Bombajo",
+        "old_name:fa": "بمبئی",
+        "old_name:fr": "Bombai",
+        "old_name:mzn": "بمبئی",
+        "old_name:oc": "Bombai",
+        "old_name:pl": "Bombaj",
+        "old_name:sr": "Бомбај",
+        "old_name:ur": "بمبئی",
+        "place": "city",
+        "place:cca": "a1",
+        "population": "12442373",
+        "rank": "0",
+        "source": "https://en.wikipedia.org/wiki/Mumbai",
+        "source:name:oc": "Lo Congrès",
+        "source:old_name:oc": "Lo Congrès",
+        "source:population": "2011 Census of India",
+        "wikidata": "Q1156",
+        "wikipedia": "en:Mumbai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 16174445,
+      "lat": 18.521428,
+      "lon": 73.8544541,
+      "tags": {
+        "capital": "5",
+        "name": "Pune",
+        "name:ar": "بونه",
+        "name:azb": "پونه",
+        "name:ckb": "پوونە",
+        "name:en": "Pune",
+        "name:fa": "پونه",
+        "name:he": "פונה",
+        "name:hi": "पुणे",
+        "name:kn": "ಪುಣೆ",
+        "name:ml": "പൂണെ",
+        "name:mr": "पुणे",
+        "name:pa": "ਪੁਣੇ",
+        "name:pnb": "پونا",
+        "name:ps": "پونی",
+        "name:ru": "Пуне",
+        "name:te": "పూణే",
+        "name:ur": "پونے",
+        "name:zh": "浦那",
+        "old_name:ar": "بونا",
+        "old_name:en": "Poona",
+        "old_name:fa": "پونا",
+        "old_name:pnb": "پونا",
+        "place": "city",
+        "population": "3115431",
+        "postal_code": "411001",
+        "wikidata": "Q1538",
+        "wikipedia": "en:Pune",
+        "wikipedia:ur": "پونے"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245638734,
+      "lat": 16.8502534,
+      "lon": 74.5948885,
+      "tags": {
+        "alt_name": "Sangli Miraj Kupwad",
+        "alt_name:ar": "سانجلي",
+        "name": "Sangli",
+        "name:ar": "سانغلي",
+        "name:en": "Sangli",
+        "name:hi": "सांगली",
+        "name:ja": "サーングリー",
+        "name:kn": "ಸಾಂಗಲೀ",
+        "name:mr": "सांगली",
+        "name:ru": "Сангли",
+        "name:ur": "سانگلی",
+        "old_name": "Sahagalli",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "502800",
+        "postal_code": "416416",
+        "wikidata": "Q429215",
+        "wikipedia": "en:Sangli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245641542,
+      "lat": 17.6715272,
+      "lon": 75.8975502,
+      "tags": {
+        "alt_name:ar": "سولابور",
+        "name": "Solapur",
+        "name:ar": "شولابور",
+        "name:en": "Solapur",
+        "name:hi": "सोलापुर",
+        "name:ja": "ソーラープル",
+        "name:kn": "ಸೊಲ್ಲಾಪುರ",
+        "name:mr": "सोलापूर",
+        "name:pa": "ਸੋਲਾਪੁਰ",
+        "name:ru": "Солапур",
+        "name:ta": "சோலாப்பூர்",
+        "name:te": "షోలాపూర్",
+        "name:uk": "Солапур",
+        "name:ur": "شولاپور",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "951600",
+        "postal_code": "413001",
+        "wikidata": "Q237847",
+        "wikipedia": "en:Solapur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245641635,
+      "lat": 17.688321,
+      "lon": 74.0041726,
+      "tags": {
+        "capital": "5",
+        "name": "Satara",
+        "name:hi": "सातारा",
+        "name:ja": "サーターラー",
+        "name:kn": "ಸಾತಾರಾ",
+        "name:mr": "सातारा",
+        "name:pa": "ਸਾਤਾਰਾ",
+        "place": "city",
+        "population": "120200",
+        "postal_code": "415002",
+        "wikidata": "Q581562",
+        "wikipedia": "en:Satara (city)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245644553,
+      "lat": 18.3921349,
+      "lon": 77.1196118,
+      "tags": {
+        "name": "Udgir",
+        "name:kn": "ಉದಗೀರ",
+        "name:ml": "ഉദ്ഗീർ",
+        "name:mr": "उदगीर",
+        "name:ta": "உட்கிர்",
+        "place": "city",
+        "population": "103500",
+        "postal_code": "413517",
+        "wikidata": "Q934153"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245644629,
+      "lat": 18.3983393,
+      "lon": 76.562087,
+      "tags": {
+        "capital": "5",
+        "name": "Latur",
+        "name:ar": "لاتور",
+        "name:en": "Latur",
+        "name:hi": "लातूर",
+        "name:ja": "ラートゥール",
+        "name:kn": "ಲಾತುರ",
+        "name:ml": "ലാതൂർ",
+        "name:mr": "लातूर",
+        "name:pa": "ਲਾਤੂਰ",
+        "name:ru": "Латур",
+        "name:uk": "Латур",
+        "name:ur": "لاتور",
+        "place": "city",
+        "population": "382900",
+        "postal_code": "413512",
+        "wikidata": "Q61394",
+        "wikipedia": "en:Latur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245658856,
+      "lat": 18.9904059,
+      "lon": 75.7542291,
+      "tags": {
+        "capital": "5",
+        "name": "Beed",
+        "name:en": "Beed",
+        "name:kn": "ಬೀಡ್",
+        "name:mr": "बीड",
+        "place": "city",
+        "population": "146700",
+        "postal_code": "431122",
+        "wikidata": "Q814033",
+        "wikipedia": "en:Beed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245669664,
+      "lat": 19.092952,
+      "lon": 74.7493451,
+      "tags": {
+        "alt_name:ar": "أحمدناجار",
+        "capital": "5",
+        "name": "Ahmednagar",
+        "name:ar": "أحمد نغر",
+        "name:azb": "احمدنقر",
+        "name:en": "Ahmednagar",
+        "name:fa": "احمدنگر",
+        "name:gu": "અહમદનગર",
+        "name:hi": "अहमदनगर",
+        "name:kn": "ಅಹಮದನ್ಗರ್",
+        "name:mr": "अहमदनगर",
+        "name:pnb": "احمد نگر",
+        "name:ru": "Ахмеднагар",
+        "name:sd": "احمد نگر",
+        "name:tr": "Ahmednagar",
+        "name:ur": "احمد نگر",
+        "place": "city",
+        "population": "350859",
+        "postal_code": "414001",
+        "wikidata": "Q223517"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245683441,
+      "lat": 19.3025562,
+      "lon": 73.0588072,
+      "tags": {
+        "name": "Bhiwandi",
+        "name:en": "Bhiwandi",
+        "name:ja": "ビワンディー",
+        "name:kn": "ಭಿವಂಡೀ",
+        "name:mr": "भिवंडी",
+        "name:ru": "Бхиванди",
+        "name:ta": "பிவான்டி",
+        "place": "city",
+        "population": "100000",
+        "postal_code": "421302",
+        "source": "AND",
+        "wikidata": "Q645725"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245686073,
+      "lat": 19.8393394,
+      "lon": 75.8818806,
+      "tags": {
+        "capital": "5",
+        "name": "Jalna",
+        "name:ar": "جالنا",
+        "name:en": "Jalna",
+        "name:fa": "جالنا",
+        "name:hi": "जालना",
+        "name:kn": "ಜಾಲ್ನಾ",
+        "name:mr": "जालना",
+        "name:pa": "ਜਾਲਨਾ",
+        "name:pnb": "جلنا",
+        "name:ur": "جالنہ",
+        "place": "city",
+        "population": "285000",
+        "postal_code": "431200",
+        "wikidata": "Q929296",
+        "wikipedia": "en:Jalna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245686245,
+      "lat": 19.877263,
+      "lon": 75.3390241,
+      "tags": {
+        "capital": "5",
+        "name": "Aurangabad",
+        "name:ar": "أورنك آباد",
+        "name:en": "Aurangabad",
+        "name:fa": "اورنگ‌آباد",
+        "name:hi": "औरंगाबाद",
+        "name:ja": "アウランガーバード",
+        "name:kn": "ಔರಂಗಾಬಾದ್",
+        "name:ml": "ഔറംഗബാദ്",
+        "name:mr": "औरंगाबाद",
+        "name:pa": "ਔਰੰਗਾਬਾਦ",
+        "name:pnb": "اورنگ آباد",
+        "name:ru": "Аурангабад",
+        "name:ta": "அவுரங்காபாத்",
+        "name:te": "ఔరంగాబాద్",
+        "name:uk": "Аурангабад",
+        "name:ur": "اورنگ آباد",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "1175116",
+        "postal_code": "431002",
+        "wikidata": "Q200713",
+        "wikipedia:en": "Aurangabad,_Maharashtra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245686536,
+      "lat": 19.9508161,
+      "lon": 79.2986673,
+      "tags": {
+        "alt_name:hi": "चंद्रपुर",
+        "capital": "5",
+        "name": "Chandrapur",
+        "name:en": "Chandrapur",
+        "name:hi": "चन्द्रपुर",
+        "name:ja": "チャンドラプル",
+        "name:kn": "ಚಂದ್ರಾಪುರ",
+        "name:ml": "ചന്ദ്രപൂർ",
+        "name:mr": "चंद्रपूर",
+        "name:pa": "ਚੰਦਰਪੁਰ",
+        "name:ru": "Чандрапур",
+        "name:te": "చంద్రపూర్",
+        "name:uk": "Чандрапур",
+        "place": "city",
+        "population": "320000",
+        "postal_code": "442401",
+        "wikidata": "Q861194",
+        "wikipedia": "en:Chandrapur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245686763,
+      "lat": 20.0112475,
+      "lon": 73.7902364,
+      "tags": {
+        "capital": "5",
+        "name": "Nashik",
+        "name:ar": "ناشك",
+        "name:az-Arab": "ناسیک",
+        "name:azb": "ناسیک",
+        "name:el": "Νασίκ",
+        "name:en": "Nashik",
+        "name:es": "Nashik",
+        "name:fa": "ناسیک",
+        "name:gu": "નાસિક",
+        "name:he": "נאשיק",
+        "name:hi": "नासिक",
+        "name:hy": "Նասիկ",
+        "name:ja": "ナーシク",
+        "name:kn": "ನಾಸಿಕ್",
+        "name:ks": "ناسک",
+        "name:ml": "നാസിക്",
+        "name:mr": "नाशिक",
+        "name:pa": "ਨਾਸ਼ਿਕ",
+        "name:pnb": "ناشک",
+        "name:ps": "ناشک",
+        "name:pt": "Nashik",
+        "name:ru": "Нашик",
+        "name:ta": "நாசிக்",
+        "name:uk": "Нашік",
+        "name:ur": "ناسک",
+        "name:zh": "纳西克",
+        "place": "city",
+        "place:cca": "b1",
+        "population": "1486000",
+        "postal_code": "422001",
+        "wikidata": "Q200235",
+        "wikipedia": "mr:नाशिक",
+        "wikipedia:ur": "ناسک"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245688424,
+      "lat": 20.390344,
+      "lon": 78.1328518,
+      "tags": {
+        "name": "Yavatmal",
+        "name:en": "Yavatmal",
+        "name:hi": "यवतमाल",
+        "name:kn": "ಯವತಮಾಳ",
+        "name:ml": "യവത്മാൽ",
+        "name:mr": "यवतमाळ",
+        "name:te": "యవతమాళ",
+        "name:uk": "Яватмал",
+        "place": "city",
+        "population": "120000",
+        "postal_code": "445001",
+        "wikidata": "Q280709",
+        "wikipedia": "mr:यवतमाळ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245689525,
+      "lat": 20.5576062,
+      "lon": 74.5246514,
+      "tags": {
+        "alt_name:hi": "मालेगांव",
+        "is_in:continent": "Asia",
+        "name": "Malegaon",
+        "name:en": "Malegaon",
+        "name:hi": "मालेगाँव",
+        "name:ja": "マーレーガオン",
+        "name:kn": "ಮಾಲೇಗಾಂವ",
+        "name:mr": "मालेगाव",
+        "name:pa": "ਮਾਲੇਗਾਓਂ",
+        "name:ru": "Манджлегаон",
+        "name:ta": "மாலேகான்",
+        "place": "city",
+        "population": "471300",
+        "postal_code": "423200",
+        "wikidata": "Q580965",
+        "wikipedia": "en:Malegaon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245689561,
+      "lat": 20.5484132,
+      "lon": 78.8411206,
+      "tags": {
+        "name": "Hinganghat",
+        "name:bn": "হিঙ্গানঘাট",
+        "name:bpy": "হিঙ্গানঘাট",
+        "name:kn": "ಹಿಂಗಣಘಾಟ",
+        "name:mr": "हिंगणघाट",
+        "name:new": "हिन्गंघाट",
+        "name:ta": "ஹிங்கன்காட்",
+        "name:ur": "ہنگن گھاٹ",
+        "name:zh": "欣冈格阿特",
+        "place": "city",
+        "population": "101800",
+        "postal_code": "442300",
+        "source": "Adcc",
+        "wikidata": "Q762823",
+        "wikipedia": "en:Hinganghat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245690517,
+      "lat": 20.7116604,
+      "lon": 77.002632,
+      "tags": {
+        "is_in:continent": "Asia",
+        "name": "Akola",
+        "name:en": "Akola",
+        "name:hi": "अकोला",
+        "name:ja": "アコーラー",
+        "name:kn": "ಅಕೊಲ",
+        "name:mr": "अकोला",
+        "name:pa": "ਅਕੋਲਾ",
+        "name:ru": "Акола",
+        "name:ta": "அகோலா",
+        "name:uk": "Акола",
+        "place": "city",
+        "population": "425800",
+        "postal_code": "444001",
+        "wikidata": "Q213014",
+        "wikipedia": "mr:अकोला"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245690727,
+      "lat": 20.7464941,
+      "lon": 78.5997922,
+      "tags": {
+        "name": "Wardha",
+        "name:ar": "وردة",
+        "name:hi": "वर्धा",
+        "name:kn": "ವರ್ಧಾ",
+        "name:ml": "വർധ",
+        "name:mr": "वर्धा",
+        "name:ru": "Вардха",
+        "name:ta": "வர்தா",
+        "name:te": "వర్ధా",
+        "place": "city",
+        "population": "106400",
+        "postal_code": "442001",
+        "wikidata": "Q1772819"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245691673,
+      "lat": 20.898,
+      "lon": 74.7732,
+      "tags": {
+        "is_in:continent": "Asia",
+        "name": "Dhule",
+        "name:en": "Dhule",
+        "name:hi": "धुले",
+        "name:ja": "ドゥーレー",
+        "name:kn": "ಧುಲೆ",
+        "name:mr": "धुळे",
+        "name:pa": "ਧੁਲ਼ੇ",
+        "name:ru": "Дхуле",
+        "place": "city",
+        "population": "375550",
+        "postal_code": "424001",
+        "source": "AND",
+        "wikidata": "Q773603",
+        "wikipedia": "en:Dhule"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245694497,
+      "lat": 21.363778,
+      "lon": 74.2411418,
+      "tags": {
+        "ele": "210",
+        "name": "Nandurbar",
+        "name:hi": "नंदुरबार",
+        "name:ja": "ナンドゥルバール",
+        "name:mr": "नंदुरबार",
+        "place": "city",
+        "population": "111000",
+        "postal_code": "425412",
+        "wikidata": "Q2087583",
+        "wikipedia": "en:Nandurbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245694618,
+      "lat": 21.3820399,
+      "lon": 79.7500206,
+      "tags": {
+        "name": "Tumsar",
+        "name:mr": "तुमसर",
+        "place": "city",
+        "population": "44869",
+        "postal_code": "441912",
+        "wikidata": "Q338371",
+        "wikipedia": "en:Tumsar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 277485901,
+      "lat": 16.6959348,
+      "lon": 74.4555755,
+      "tags": {
+        "name": "Ichalkaranji",
+        "name:ar": "إيشل كرنجي",
+        "name:kn": "ಇಚಲಕರಂಜಿ",
+        "name:mr": "इचलकरंजी",
+        "name:ur": "ایچل کرنجی",
+        "place": "city",
+        "population": "287000",
+        "wikidata": "Q583818",
+        "wikipedia": "en:Ichalkaranji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 537966705,
+      "lat": 21.1498134,
+      "lon": 79.0820556,
+      "tags": {
+        "capital": "5",
+        "name": "Nagpur",
+        "name:ar": "ناغبور",
+        "name:bn": "নাগপুর",
+        "name:en": "Nagpur",
+        "name:gu": "નાગપુર",
+        "name:he": "נגפור",
+        "name:hi": "नागपुर",
+        "name:ja": "ナーグプル",
+        "name:kn": "ನಾಗಪುರ",
+        "name:ko": "나그푸르",
+        "name:ml": "നാഗ്‌പൂർ",
+        "name:mr": "नागपूर",
+        "name:oc": "Nagpur",
+        "name:or": "ନାଗପୁର",
+        "name:pa": "ਨਾਗਪੁਰ",
+        "name:ru": "Нагпур",
+        "name:ta": "நாக்பூர்",
+        "name:te": "నాగపూర్",
+        "name:uk": "Наґпур",
+        "name:zh": "那格浦尔",
+        "place": "city",
+        "place:cca": "a",
+        "population": "2405700",
+        "postal_code": "440001",
+        "source:name:oc": "Lo Congrès",
+        "wikidata": "Q1513",
+        "wikipedia": "en:Nagpur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571736537,
+      "lat": 18.9895249,
+      "lon": 73.1221935,
+      "tags": {
+        "capital": "6",
+        "name": "Panvel",
+        "name:ja": "パンベル",
+        "name:kn": "ಪನ್ವೆಲ್",
+        "name:mr": "पनवेल",
+        "name:pa": "ਪਨਵੇਲ",
+        "place": "city",
+        "population": "180020",
+        "postal_code": "410206",
+        "wikidata": "Q297511",
+        "wikipedia": "en:Panvel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 593878343,
+      "lat": 16.7028412,
+      "lon": 74.2405329,
+      "tags": {
+        "capital": "5",
+        "name": "Kolhapur",
+        "name:ar": "كولهابور",
+        "name:azb": "کولاپور",
+        "name:fa": "کولاپور",
+        "name:he": "קולהפור",
+        "name:hi": "कोल्हापुर",
+        "name:kn": "ಕೋಲ್ಹಾಪುರ",
+        "name:ml": "കോലാപ്പൂർ",
+        "name:mr": "कोल्हापूर",
+        "name:pa": "ਕੋਲਹਾਪੁਰ",
+        "name:pnb": "کولہاپور",
+        "name:ps": "کولهاپور",
+        "name:ur": "کولہاپور",
+        "place": "city",
+        "population": "549200",
+        "wikidata": "Q209698",
+        "wikipedia": "mr:कोल्हापूर",
+        "wikipedia:ur": "کولہاپور"
+      }
+    },
+    {
+      "type": "node",
+      "id": 619091882,
+      "lat": 19.0308262,
+      "lon": 73.0198537,
+      "tags": {
+        "name": "Navi Mumbai",
+        "name:en": "Navi Mumbai",
+        "name:eo": "Novmumbajo",
+        "name:he": "מומבאי החדשה",
+        "name:hi": "नवी मुम्बई",
+        "name:ja": "ナビムンバイ",
+        "name:kn": "ನವೀ ಮುಂಬಯಿ",
+        "name:ml": "നവി മുംബൈ",
+        "name:mr": "नवी मुंबई",
+        "name:pa": "ਨਵੀ ਮੁੰਬਈ",
+        "name:pl": "Navi Mumbai",
+        "name:pt": "Navi Mumbai",
+        "name:ru": "Новый Мумбай",
+        "name:ta": "நவி மும்பை",
+        "name:te": "నవీ ముంబై",
+        "name:zh": "新孟买",
+        "place": "city",
+        "population": "1120547",
+        "wikidata": "Q61445",
+        "wikipedia": "en:Navi Mumbai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 969754622,
+      "lat": 19.2227363,
+      "lon": 73.1657782,
+      "tags": {
+        "alt_name": "Sindhunagar",
+        "name": "Ulhasnagar",
+        "name:hi": "उल्हासनगर",
+        "name:ja": "ウルハースナガル",
+        "name:kn": "ಉಲ್ಲಾಸನಗರ್",
+        "name:mr": "उल्हासनगर",
+        "name:pa": "ਉਲਹਾਸਨਗਰ",
+        "name:sd": "الھاس نگر",
+        "place": "city",
+        "population": "506937",
+        "population:date": "2011",
+        "wikidata": "Q460222",
+        "wikipedia": "en:Ulhasnagar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 969958566,
+      "lat": 19.1650196,
+      "lon": 73.237532,
+      "tags": {
+        "is_in": "Ambarnath",
+        "name": "Kulgaon Badlapur",
+        "name:hi": "कुळगाव बदलापूर",
+        "name:mr": "कुळगाव बदलापूर",
+        "place": "city",
+        "population": "150000",
+        "postal_code": "421503",
+        "wikidata": "Q588612"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1119862973,
+      "lat": 20.9968453,
+      "lon": 75.5683795,
+      "tags": {
+        "name": "Jalgaon",
+        "name:en": "Jalgaon",
+        "name:hi": "जलगाँव",
+        "name:ja": "ジャルガーオン",
+        "name:kn": "ಜಳ್ಗಾಂವ",
+        "name:mr": "जळगाव",
+        "name:pa": "ਜਲਗਾਓਂ",
+        "name:ta": "ஜல்கான்",
+        "place": "city",
+        "population": "460000",
+        "postal_code": "425001",
+        "wikidata": "Q30951",
+        "wikipedia": "mr:जळगाव"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1176928823,
+      "lat": 21.455228,
+      "lon": 80.1962729,
+      "tags": {
+        "is_in:continent": "Asia",
+        "name": "Gondia",
+        "name:hi": "गोंदिया",
+        "name:ja": "ゴーンディヤー",
+        "name:kn": "ಗೊಂದಿಯಾ",
+        "name:mr": "गोंदिया",
+        "name:ta": "கொண்டிய",
+        "place": "city",
+        "population": "132813",
+        "postal_code": "441601",
+        "wikidata": "Q1707857",
+        "wikipedia": "mr:गोंदिया"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1185686412,
+      "lat": 19.169335,
+      "lon": 77.311013,
+      "tags": {
+        "alt_name": "Nanded Waghala",
+        "name": "Nanded",
+        "name:ar": "نانديد واغهالا",
+        "name:en": "Nanded",
+        "name:hi": "नांदेड",
+        "name:ja": "ナーンデード・ワガラ",
+        "name:kn": "ನಾಂದೇಡ್",
+        "name:ml": "നാന്ദെഡ്-വാഘല",
+        "name:mr": "नांदेड",
+        "name:ur": "ناندیڑ-واگھالا",
+        "place": "city",
+        "population": "550400",
+        "postal_code": "431600",
+        "wikidata": "Q886590",
+        "wikipedia": "en:Nanded-Waghala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1600720972,
+      "lat": 19.2334875,
+      "lon": 73.1182464,
+      "tags": {
+        "name": "Kalyan-Dombivli",
+        "name:en": "Kalyan-Dombivli",
+        "name:hi": "कल्याण-डोंबिवली",
+        "name:kn": "ಕಲ್ಯಾಣ-ದೊಂಬಿವಿಲಿ",
+        "name:mr": "कल्याण-डोंबिवली",
+        "name:pl": "Kalyan-Dombivali",
+        "place": "city",
+        "population": "1247327",
+        "postal_code": "421301",
+        "wikidata": "Q581999",
+        "wikipedia": "en:Kalyan-Dombivli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1600720975,
+      "lat": 18.6279288,
+      "lon": 73.8009829,
+      "tags": {
+        "alt_name": "Pimpri Chinchwad",
+        "alt_name:en": "Pimpri Chinchwad",
+        "alt_name:mr": "पिंपरी चिंचवड",
+        "name": "Pimpri-Chinchwad",
+        "name:en": "Pimpri-Chinchwad",
+        "name:ja": "ピンプリ・チンチワッド",
+        "name:mr": "पिंपरी-चिंचवड",
+        "place": "city",
+        "population": "1729320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1600720976,
+      "lat": 19.4258788,
+      "lon": 72.8224901,
+      "tags": {
+        "alt_name:ar": "فاساي فيرار",
+        "name": "Vasai-Virar",
+        "name:ar": "وسائي-ويرار",
+        "name:en": "Vasai-Virar",
+        "name:hi": "वसई-विरार",
+        "name:ja": "ヴァサイー・ヴィラール",
+        "name:kn": "ವಸಾಯಿ-ವಿಹಾರ್",
+        "name:mr": "वसई-विरार",
+        "name:pt": "Vasai-Virar",
+        "name:ru": "Васаи-Вирар",
+        "place": "city",
+        "population": "1221000",
+        "wikidata": "Q580876",
+        "wikipedia": "en:Vasai-Virar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1802916837,
+      "lat": 21.25467,
+      "lon": 77.5086428,
+      "tags": {
+        "ele": "369",
+        "name": "Achalpur",
+        "name:ar": "أشلبور",
+        "name:hi": "अचलपूर",
+        "name:ja": "アチャルプル",
+        "name:mr": "अचलपूर",
+        "name:ta": "அச்சல்பூர்",
+        "name:ur": "اچلپور",
+        "old_name": "Ellichpur",
+        "place": "city",
+        "population": "112300",
+        "postal_code": "444806",
+        "wikidata": "Q490886"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2305719889,
+      "lat": 18.2341108,
+      "lon": 75.6875109,
+      "tags": {
+        "name": "Barshi",
+        "name:ar": "بارسي",
+        "name:hi": "बार्शी",
+        "name:kn": "ಭಾರ್ಶಿ",
+        "name:mr": "बार्शी",
+        "name:ur": "بارسی",
+        "place": "city",
+        "population": "118700",
+        "postal_code": "413400",
+        "wikidata": "Q708645",
+        "wikipedia": "en:Barshi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2634136855,
+      "lat": 21.04572,
+      "lon": 75.7808079,
+      "tags": {
+        "name": "Bhusawal",
+        "name:hi": "भुसावल",
+        "name:mr": "भुसावळ",
+        "name:pa": "ਭੁਸਾਵਲ਼",
+        "name:ru": "Бхусавал",
+        "place": "city",
+        "population": "187400",
+        "postal_code": "425200",
+        "wikidata": "Q796650",
+        "wikipedia": "en:Bhusawal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3141968010,
+      "lat": 20.9316219,
+      "lon": 77.7588455,
+      "tags": {
+        "capital": "7",
+        "name": "Amravati",
+        "name:ar": "أمرافاتي",
+        "name:en": "Amravati",
+        "name:hi": "अमरावती",
+        "name:ja": "アムラーワティー",
+        "name:kn": "ಅಮ್ರಾವತಿ",
+        "name:ml": "അമരാവതി",
+        "name:mr": "अमरावती",
+        "name:pa": "ਅਮਰਾਵਤੀ",
+        "name:ru": "Амравати",
+        "name:ta": "அமராவதி",
+        "name:uk": "Амраваті",
+        "name:ur": "امراوتی",
+        "place": "city",
+        "place:cca": "b2",
+        "population": "647000",
+        "postal_code": "444600",
+        "wikidata": "Q269899",
+        "wikipedia": "en:Amravati"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5316782418,
+      "lat": 18.1853567,
+      "lon": 76.0420253,
+      "tags": {
+        "name": "Osmanabad",
+        "name:ar": "عثمان آباد",
+        "name:hi": "उस्मानाबाद",
+        "name:kn": "ಉಸ್ಮಾನಾಬಾದ್",
+        "name:mr": "उस्मानाबाद",
+        "name:ur": "عثمان آباد",
+        "place": "city",
+        "population": "111800",
+        "postal_code": "413500",
+        "wikidata": "Q2462135",
+        "wikipedia": "en:Osmanabad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7297023089,
+      "lat": 21.1706698,
+      "lon": 79.65658,
+      "tags": {
+        "capital": "5",
+        "name": "Bhandara",
+        "name:ja": "バンダーラー",
+        "name:mr": "भंडारा",
+        "name:ta": "பண்டாரா",
+        "place": "city",
+        "population": "91845",
+        "postal_code": "441904",
+        "wikidata": "Q759212",
+        "wikipedia": "mr:भंडारा"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22826210,
+      "nodes": [
+        245683324,
+        245683364,
+        245683439,
+        245683513,
+        245683559,
+        245683527,
+        245683460,
+        7366328506,
+        658609641,
+        2221471028,
+        2221470883,
+        658609642,
+        2221090463,
+        658609643,
+        2221470663,
+        245683374,
+        2221470641,
+        245683324
+      ],
+      "tags": {
+        "AND_a_c": "10000780",
+        "name": "Bhiwandi",
+        "name:hi": "भिवंडी",
+        "name:ja": "ビワンディー",
+        "name:mr": "भिवंडी",
+        "name:pa": "ਭਿਵੰਡੀ",
+        "name:ru": "Бхиванди",
+        "name:ta": "பிவான்டி",
+        "place": "city"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22826265,
+      "nodes": [
+        245692219,
+        245692245,
+        245692260,
+        245692278,
+        245692291,
+        245692310,
+        245692339,
+        245692333,
+        245692292,
+        245692233,
+        245692219
+      ],
+      "tags": {
+        "name": "Arvi",
+        "name:ar": "آرفي",
+        "name:mr": "आर्वी",
+        "name:ta": "அர்வி",
+        "name:ur": "آروی",
+        "place": "city"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22826284,
+      "nodes": [
+        245693847,
+        8906521170,
+        8906521171,
+        245693838,
+        5395443741,
+        5395443739,
+        5395443740,
+        245693875,
+        245693890,
+        5393514841,
+        8906521158,
+        8918966384,
+        8918966383,
+        8906521157,
+        3188436043,
+        8906521156,
+        8907882397,
+        8906521159,
+        245693934,
+        245693953,
+        3188436083,
+        8906521160,
+        8906521161,
+        8906521162,
+        8906521165,
+        8906521163,
+        8906521164,
+        245693981,
+        245693983,
+        3188436066,
+        8906521166,
+        8906521167,
+        8906521168,
+        8906521169,
+        3188436062,
+        3188436050,
+        245693916,
+        245693868,
+        245693847
+      ],
+      "tags": {
+        "name": "Chopda",
+        "name:mr": "चोपडा",
+        "name:ta": "சோப்டா",
+        "place": "city"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133732481,
+      "nodes": [
+        1471841867,
+        1471841851,
+        2351619945,
+        1471841834,
+        2351619930,
+        2351619944,
+        2351619942,
+        2351619924,
+        2351619925,
+        1471841833,
+        2351619894,
+        1471841829,
+        2351619873,
+        2351619871,
+        2351619861,
+        2351619859,
+        2351619852,
+        2351619853,
+        1471841824,
+        2351619863,
+        2351619874,
+        1471841828,
+        2351619896,
+        2351619918,
+        2351619926,
+        2351619941,
+        2351619938,
+        2351619909,
+        1471841831,
+        2351619928,
+        2351619917,
+        2351619881,
+        2351619857,
+        1471841822,
+        1471841819,
+        2843581437,
+        1471841832,
+        2843581436,
+        2843581435,
+        2843581434,
+        2843581433,
+        1471841856,
+        2843581432,
+        2843581429,
+        2843581430,
+        2843581431,
+        1471841866,
+        2843581428,
+        1471841887,
+        1471841886,
+        1471841873,
+        1471841872,
+        1471841867
+      ],
+      "tags": {
+        "landuse": "residential",
+        "name": "Saoner",
+        "name:ar": "ساؤنير",
+        "name:mr": "सावनेर",
+        "name:ta": "ஷொனேர்",
+        "name:ur": "ساؤنیر",
+        "place": "city"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245683324,
+      "lat": 19.2824,
+      "lon": 73.0429148
+    },
+    {
+      "type": "node",
+      "id": 2221470641,
+      "lat": 19.2832341,
+      "lon": 73.0507202
+    },
+    {
+      "type": "node",
+      "id": 245683374,
+      "lat": 19.2839506,
+      "lon": 73.0574259
+    },
+    {
+      "type": "node",
+      "id": 2221470663,
+      "lat": 19.2839754,
+      "lon": 73.0597875
+    },
+    {
+      "type": "node",
+      "id": 245683364,
+      "lat": 19.2906747,
+      "lon": 73.0396589
+    },
+    {
+      "type": "node",
+      "id": 245683439,
+      "lat": 19.3013679,
+      "lon": 73.0437788
+    },
+    {
+      "type": "node",
+      "id": 658609643,
+      "lat": 19.2841126,
+      "lon": 73.0728754
+    },
+    {
+      "type": "node",
+      "id": 658609642,
+      "lat": 19.2935101,
+      "lon": 73.0838617
+    },
+    {
+      "type": "node",
+      "id": 2221090463,
+      "lat": 19.2919487,
+      "lon": 73.0822979
+    },
+    {
+      "type": "node",
+      "id": 2221470883,
+      "lat": 19.295502,
+      "lon": 73.0831093
+    },
+    {
+      "type": "node",
+      "id": 658609641,
+      "lat": 19.302826,
+      "lon": 73.0803427
+    },
+    {
+      "type": "node",
+      "id": 2221471028,
+      "lat": 19.3024153,
+      "lon": 73.0804978
+    },
+    {
+      "type": "node",
+      "id": 245683460,
+      "lat": 19.307,
+      "lon": 73.0731148
+    },
+    {
+      "type": "node",
+      "id": 7366328506,
+      "lat": 19.3049348,
+      "lon": 73.0767179
+    },
+    {
+      "type": "node",
+      "id": 245683513,
+      "lat": 19.3147,
+      "lon": 73.0471148
+    },
+    {
+      "type": "node",
+      "id": 245683559,
+      "lat": 19.3205,
+      "lon": 73.0546148
+    },
+    {
+      "type": "node",
+      "id": 245683527,
+      "lat": 19.3163,
+      "lon": 73.0647148
+    },
+    {
+      "type": "node",
+      "id": 245693890,
+      "lat": 21.2428008,
+      "lon": 75.2861289
+    },
+    {
+      "type": "node",
+      "id": 3188436043,
+      "lat": 21.2495253,
+      "lon": 75.2793412
+    },
+    {
+      "type": "node",
+      "id": 8906521157,
+      "lat": 21.248679,
+      "lon": 75.2790889
+    },
+    {
+      "type": "node",
+      "id": 8906521158,
+      "lat": 21.2482495,
+      "lon": 75.280497
+    },
+    {
+      "type": "node",
+      "id": 8918966383,
+      "lat": 21.2484801,
+      "lon": 75.279935
+    },
+    {
+      "type": "node",
+      "id": 8918966384,
+      "lat": 21.2483473,
+      "lon": 75.2802902
+    },
+    {
+      "type": "node",
+      "id": 5393514841,
+      "lat": 21.2454571,
+      "lon": 75.282329
+    },
+    {
+      "type": "node",
+      "id": 8906521156,
+      "lat": 21.2516604,
+      "lon": 75.2792123
+    },
+    {
+      "type": "node",
+      "id": 245693934,
+      "lat": 21.2525263,
+      "lon": 75.2837056
+    },
+    {
+      "type": "node",
+      "id": 245693953,
+      "lat": 21.2537229,
+      "lon": 75.285906
+    },
+    {
+      "type": "node",
+      "id": 8906521159,
+      "lat": 21.2525691,
+      "lon": 75.2817554
+    },
+    {
+      "type": "node",
+      "id": 8907882397,
+      "lat": 21.2517234,
+      "lon": 75.2816298
+    },
+    {
+      "type": "node",
+      "id": 245693838,
+      "lat": 21.2346172,
+      "lon": 75.2922401
+    },
+    {
+      "type": "node",
+      "id": 5395443739,
+      "lat": 21.2361748,
+      "lon": 75.2899428
+    },
+    {
+      "type": "node",
+      "id": 5395443741,
+      "lat": 21.2359262,
+      "lon": 75.2901401
+    },
+    {
+      "type": "node",
+      "id": 8906521171,
+      "lat": 21.2342002,
+      "lon": 75.2934095
+    },
+    {
+      "type": "node",
+      "id": 8906521170,
+      "lat": 21.233495,
+      "lon": 75.2961596
+    },
+    {
+      "type": "node",
+      "id": 245693847,
+      "lat": 21.2337369,
+      "lon": 75.3027217
+    },
+    {
+      "type": "node",
+      "id": 245693868,
+      "lat": 21.2357758,
+      "lon": 75.3103627
+    },
+    {
+      "type": "node",
+      "id": 245693875,
+      "lat": 21.2384501,
+      "lon": 75.2891202
+    },
+    {
+      "type": "node",
+      "id": 5395443740,
+      "lat": 21.2374607,
+      "lon": 75.2890648
+    },
+    {
+      "type": "node",
+      "id": 245693916,
+      "lat": 21.2431703,
+      "lon": 75.3106033
+    },
+    {
+      "type": "node",
+      "id": 3188436050,
+      "lat": 21.2490142,
+      "lon": 75.3127141
+    },
+    {
+      "type": "node",
+      "id": 3188436083,
+      "lat": 21.2548762,
+      "lon": 75.2889074
+    },
+    {
+      "type": "node",
+      "id": 8906521160,
+      "lat": 21.2562296,
+      "lon": 75.2932051
+    },
+    {
+      "type": "node",
+      "id": 8906521161,
+      "lat": 21.2580457,
+      "lon": 75.2929251
+    },
+    {
+      "type": "node",
+      "id": 245693981,
+      "lat": 21.2567078,
+      "lon": 75.2945871
+    },
+    {
+      "type": "node",
+      "id": 8906521162,
+      "lat": 21.2578559,
+      "lon": 75.2948433
+    },
+    {
+      "type": "node",
+      "id": 8906521163,
+      "lat": 21.2571718,
+      "lon": 75.2962857
+    },
+    {
+      "type": "node",
+      "id": 8906521164,
+      "lat": 21.2570372,
+      "lon": 75.2946198
+    },
+    {
+      "type": "node",
+      "id": 8906521165,
+      "lat": 21.2577647,
+      "lon": 75.2960176
+    },
+    {
+      "type": "node",
+      "id": 245693983,
+      "lat": 21.2558527,
+      "lon": 75.3020084
+    },
+    {
+      "type": "node",
+      "id": 3188436066,
+      "lat": 21.2511996,
+      "lon": 75.3036355
+    },
+    {
+      "type": "node",
+      "id": 8906521166,
+      "lat": 21.2508161,
+      "lon": 75.3070227
+    },
+    {
+      "type": "node",
+      "id": 8906521167,
+      "lat": 21.2532817,
+      "lon": 75.3072114
+    },
+    {
+      "type": "node",
+      "id": 3188436062,
+      "lat": 21.2502685,
+      "lon": 75.3103869
+    },
+    {
+      "type": "node",
+      "id": 8906521168,
+      "lat": 21.2530982,
+      "lon": 75.309617
+    },
+    {
+      "type": "node",
+      "id": 8906521169,
+      "lat": 21.2513913,
+      "lon": 75.3106256
+    },
+    {
+      "type": "node",
+      "id": 245692245,
+      "lat": 20.9859,
+      "lon": 78.2282
+    },
+    {
+      "type": "node",
+      "id": 245692219,
+      "lat": 20.98191,
+      "lon": 78.23176
+    },
+    {
+      "type": "node",
+      "id": 245692233,
+      "lat": 20.98438,
+      "lon": 78.24286
+    },
+    {
+      "type": "node",
+      "id": 245692260,
+      "lat": 20.9882,
+      "lon": 78.2262
+    },
+    {
+      "type": "node",
+      "id": 245692278,
+      "lat": 20.991,
+      "lon": 78.2253
+    },
+    {
+      "type": "node",
+      "id": 245692291,
+      "lat": 20.9945,
+      "lon": 78.2246
+    },
+    {
+      "type": "node",
+      "id": 245692310,
+      "lat": 20.9997,
+      "lon": 78.2265
+    },
+    {
+      "type": "node",
+      "id": 245692292,
+      "lat": 20.9945,
+      "lon": 78.2419
+    },
+    {
+      "type": "node",
+      "id": 245692339,
+      "lat": 21.00558,
+      "lon": 78.22775
+    },
+    {
+      "type": "node",
+      "id": 245692333,
+      "lat": 21.00478,
+      "lon": 78.2391
+    },
+    {
+      "type": "node",
+      "id": 2351619852,
+      "lat": 21.3795452,
+      "lon": 78.9112562
+    },
+    {
+      "type": "node",
+      "id": 2351619859,
+      "lat": 21.3804637,
+      "lon": 78.9104378
+    },
+    {
+      "type": "node",
+      "id": 2351619861,
+      "lat": 21.3807099,
+      "lon": 78.9097914
+    },
+    {
+      "type": "node",
+      "id": 1471841824,
+      "lat": 21.3793709,
+      "lon": 78.9132971
+    },
+    {
+      "type": "node",
+      "id": 2351619853,
+      "lat": 21.3796156,
+      "lon": 78.9129058
+    },
+    {
+      "type": "node",
+      "id": 2351619863,
+      "lat": 21.3810038,
+      "lon": 78.9140759
+    },
+    {
+      "type": "node",
+      "id": 1471841822,
+      "lat": 21.3791675,
+      "lon": 78.9247053
+    },
+    {
+      "type": "node",
+      "id": 2351619857,
+      "lat": 21.3801207,
+      "lon": 78.9227863
+    },
+    {
+      "type": "node",
+      "id": 1471841819,
+      "lat": 21.3788532,
+      "lon": 78.9299938
+    },
+    {
+      "type": "node",
+      "id": 1471841829,
+      "lat": 21.381263,
+      "lon": 78.9117092
+    },
+    {
+      "type": "node",
+      "id": 1471841851,
+      "lat": 21.3872875,
+      "lon": 78.9092338
+    },
+    {
+      "type": "node",
+      "id": 2351619871,
+      "lat": 21.3816636,
+      "lon": 78.9102825
+    },
+    {
+      "type": "node",
+      "id": 2351619873,
+      "lat": 21.3817339,
+      "lon": 78.9111597
+    },
+    {
+      "type": "node",
+      "id": 2351619945,
+      "lat": 21.3843863,
+      "lon": 78.911487
+    },
+    {
+      "type": "node",
+      "id": 1471841828,
+      "lat": 21.3817802,
+      "lon": 78.9169459
+    },
+    {
+      "type": "node",
+      "id": 1471841833,
+      "lat": 21.3831685,
+      "lon": 78.9140773
+    },
+    {
+      "type": "node",
+      "id": 1471841834,
+      "lat": 21.3835946,
+      "lon": 78.9128554
+    },
+    {
+      "type": "node",
+      "id": 2351619874,
+      "lat": 21.3817695,
+      "lon": 78.915789
+    },
+    {
+      "type": "node",
+      "id": 2351619894,
+      "lat": 21.3825977,
+      "lon": 78.9126036
+    },
+    {
+      "type": "node",
+      "id": 2351619896,
+      "lat": 21.3826429,
+      "lon": 78.9172017
+    },
+    {
+      "type": "node",
+      "id": 2351619909,
+      "lat": 21.3829894,
+      "lon": 78.918086
+    },
+    {
+      "type": "node",
+      "id": 2351619918,
+      "lat": 21.3833959,
+      "lon": 78.9163567
+    },
+    {
+      "type": "node",
+      "id": 2351619924,
+      "lat": 21.3835923,
+      "lon": 78.9158544
+    },
+    {
+      "type": "node",
+      "id": 2351619925,
+      "lat": 21.3835982,
+      "lon": 78.9154283
+    },
+    {
+      "type": "node",
+      "id": 2351619926,
+      "lat": 21.383601,
+      "lon": 78.9159579
+    },
+    {
+      "type": "node",
+      "id": 2351619930,
+      "lat": 21.3836954,
+      "lon": 78.9140572
+    },
+    {
+      "type": "node",
+      "id": 2351619938,
+      "lat": 21.3838219,
+      "lon": 78.9167722
+    },
+    {
+      "type": "node",
+      "id": 2351619941,
+      "lat": 21.3840779,
+      "lon": 78.9160902
+    },
+    {
+      "type": "node",
+      "id": 2351619942,
+      "lat": 21.3840809,
+      "lon": 78.9160076
+    },
+    {
+      "type": "node",
+      "id": 2351619944,
+      "lat": 21.3841825,
+      "lon": 78.9150947
+    },
+    {
+      "type": "node",
+      "id": 1471841867,
+      "lat": 21.3907973,
+      "lon": 78.9096276
+    },
+    {
+      "type": "node",
+      "id": 1471841872,
+      "lat": 21.391164,
+      "lon": 78.9111466
+    },
+    {
+      "type": "node",
+      "id": 1471841873,
+      "lat": 21.391164,
+      "lon": 78.9133408
+    },
+    {
+      "type": "node",
+      "id": 1471841886,
+      "lat": 21.3940451,
+      "lon": 78.9147473
+    },
+    {
+      "type": "node",
+      "id": 1471841887,
+      "lat": 21.3940975,
+      "lon": 78.9175603
+    },
+    {
+      "type": "node",
+      "id": 1471841831,
+      "lat": 21.3828969,
+      "lon": 78.9201059
+    },
+    {
+      "type": "node",
+      "id": 2351619881,
+      "lat": 21.3823095,
+      "lon": 78.9222343
+    },
+    {
+      "type": "node",
+      "id": 2351619917,
+      "lat": 21.3833431,
+      "lon": 78.9226379
+    },
+    {
+      "type": "node",
+      "id": 2351619928,
+      "lat": 21.383636,
+      "lon": 78.9217
+    },
+    {
+      "type": "node",
+      "id": 1471841832,
+      "lat": 21.3858001,
+      "lon": 78.9299738
+    },
+    {
+      "type": "node",
+      "id": 1471841866,
+      "lat": 21.3905547,
+      "lon": 78.9198427
+    },
+    {
+      "type": "node",
+      "id": 2843581428,
+      "lat": 21.3923262,
+      "lon": 78.9184604
+    },
+    {
+      "type": "node",
+      "id": 2843581429,
+      "lat": 21.3922657,
+      "lon": 78.9220705
+    },
+    {
+      "type": "node",
+      "id": 2843581430,
+      "lat": 21.390373,
+      "lon": 78.9215989
+    },
+    {
+      "type": "node",
+      "id": 2843581431,
+      "lat": 21.3903578,
+      "lon": 78.9207533
+    },
+    {
+      "type": "node",
+      "id": 2843581432,
+      "lat": 21.3916903,
+      "lon": 78.9235666
+    },
+    {
+      "type": "node",
+      "id": 1471841856,
+      "lat": 21.3914934,
+      "lon": 78.9263149
+    },
+    {
+      "type": "node",
+      "id": 2843581433,
+      "lat": 21.3897824,
+      "lon": 78.926201
+    },
+    {
+      "type": "node",
+      "id": 2843581434,
+      "lat": 21.389419,
+      "lon": 78.9273556
+    },
+    {
+      "type": "node",
+      "id": 2843581435,
+      "lat": 21.3888588,
+      "lon": 78.9274857
+    },
+    {
+      "type": "node",
+      "id": 2843581436,
+      "lat": 21.3877686,
+      "lon": 78.930299
+    },
+    {
+      "type": "node",
+      "id": 2843581437,
+      "lat": 21.3848916,
+      "lon": 78.9338767
+    }
+  ]
+}

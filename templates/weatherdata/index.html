@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Weather Data</title>
+	 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+   <style>
+       .container{
+           margin: 20px;
+           padding: 10px;
+           border: 1px solid black;
+       }
+       h2,h3,p{
+           text-align: center;
+       }
+       .map{
+           height: 500px;
+       }
+   </style>
+</head>
+<body>
+<!-- 
+        {% for data in data_to_display %}
+            <h2>{{ data.coord }}</h2>
+            <p>{{ geolocation.location }}</p> -->
+        <!-- {% endfor%} -->
+        <h3>Weather Data</h3>
+        <div class="container">
+            <div class="map" id="mapid">
+            </div>
+        </div>
+        
+         <script>
+            
+            var data = '{{ data_to_display|safe }}'; 
+            console.log(data);
+            var weather = {{ weather_to_display|safe }};
+            // console.log(weather);
+            // console.log(typeof data) 
+            var array = JSON.parse("[" + data + "]");
+            // console.log(array);
+
+            // console.log('length: ',array[0].length);
+
+            var map = L.map('mapid').setView([18.5194,73.8607], 13);
+
+            var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+                maxZoom: 18,
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+                    'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                id: 'mapbox/streets-v11',
+                tileSize: 512,
+                zoomOffset: -1
+            }).addTo(map);
+
+            
+
+            let l = array[0].length;
+            // console.log('lenght: '+l);
+            for (let i = 0 ;i < l; i++) {
+
+                var pop = L.popup({
+                closeOnclick:true
+                }).setContent('<h3>Name:'+weather[i].name+'</h3><p>Temperature: '+weather[i].temperature+'</p><p>Humidity: '+ weather[i].humidity+'</p>');
+
+                var marker = L.marker(array[0][i]).addTo(map).bindPopup(pop);
+            }
+
+        </script>   
+</body>
+</html>
